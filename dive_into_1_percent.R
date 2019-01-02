@@ -1,4 +1,4 @@
-setwd("/Users/clement/Documents/")
+setwd("/Users/clement/Documents/") # Replace this with the actual path to the data file
 impots = read.csv("impots-france.csv")
 
 # Data cleaning
